@@ -22,7 +22,7 @@ public class BooleanOpr {
 		boolean logAndfalse = ((a!=c) && (a<b));
 		boolean logicalOr = ((a==c) || (a<b));
 		boolean logicalOrfasle = ((a!=c) || (a>b));
-		boolean logicalnot = (!(a==c));
+		boolean logicalnot = (!(a==c)); 
 		
 		System.out.println("condition value equals check: logAnd :" + logAnd);
 		System.out.println("condition value equals check: logAndfalse :" + logAndfalse);
